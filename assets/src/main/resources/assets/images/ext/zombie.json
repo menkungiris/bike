@@ -1,0 +1,9 @@
+{
+ "urls": ["images/ext/zombiesprite.png"],
+ "sprites": [
+     {"id": "idle_1", "url": 0, "x": 0, "y": 0, "w": 65, "h": 90},
+     {"id": "idle_2", "url": 0, "x": 65, "y": 0, "w": 58, "h": 90},
+     {"id": "idle_3", "url": 0, "x": 120, "y": 0, "w": 54, "h": 90},
+     {"id": "idle_4", "url": 0, "x": 180, "y": 0, "w": 48, "h": 90}
+ ]
+}
